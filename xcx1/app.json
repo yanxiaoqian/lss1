@@ -5,7 +5,11 @@
     "window": {
         "navigationBarBackgroundColor": "#ffffff",
         "navigationBarTextStyle": "black",
+<<<<<<< HEAD
         "navigationBarTitleText": "智能小程序1102",
+=======
+        "navigationBarTitleText": "智能小程序1101",
+>>>>>>> 30b7a6dcb4351f19fbc4ba7528a3da2ea20f55ce
         "backgroundTextStyle": "light"
     }
 }
