@@ -3,7 +3,7 @@
     <view class="logo">
     </view>
     <view class="userinfo">
-        <button class="userinfo-login-btn" s-if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 12102</button>
+        <button class="userinfo-login-btn" s-if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 12103</button>
         <view s-else class="userinfo-message">
         <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}"></image>
         <text class="userinfo-nickname">{{userInfo.nickName}}</text>
